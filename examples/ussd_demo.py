@@ -9,6 +9,8 @@ Simple demo app that initiates a USSD session, reads the string response and clo
 Note: for this to work, a valid USSD string for your network must be used.
 """
 
+# Made some changes
+
 from __future__ import print_function
 
 import logging
